@@ -29,7 +29,9 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+fun nig(){
+    println("You goofy boy")
+}
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
